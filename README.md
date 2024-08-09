@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAnitsu
+- 👋 Hi, I’m @Mihai A. Nitu
 - 👀 I’m interested in automation, fitness, reading, and gaming
 - 🌱 I’m currently learning Java
 - 👾 I’m looking to collaborate on any Java or Python automation beginner-friendly project
