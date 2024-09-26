@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mihai A. Nitu
 - 👀 I’m interested in automation, fitness, reading, and gaming
-- 🌱 I’m currently learning Java
-- 👾 I’m looking to collaborate on any Java or Python beginner-friendly project
+- 🌱 I’m currently learning C#
+- 👾 I’m looking to collaborate on any C# beginner-friendly project
 - 📫 How to reach me https://www.linkedin.com/in/mihai-alexandru-nitu-b8035a16a/
 
 
