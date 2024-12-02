@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihai A. Nitu
+- 👋 Hi, I’m Mihai A. Nitu
 - 👀 I’m interested in automation, fitness, reading, and gaming
 - 🌱 I’m currently learning C#
 - 👾 I’m looking to collaborate on any C# beginner-friendly project
