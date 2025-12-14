@@ -4,7 +4,7 @@ I’m Mihai Nițu, a junior software developer and ex QA engineer.
 
 I like to automate every task I can, but only if it really needs to be automated.
 
-The main project I work on now is a [Python automation framework using Playwright](github.com/MAnitsu/PlaywrightFramework).
+The main project I work on now is a [Python automation framework using Playwright](https://github.com/MAnitsu/PlaywrightFramework).
 
 ---
 
