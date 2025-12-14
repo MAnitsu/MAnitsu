@@ -1,4 +1,5 @@
 Hi! 👋
+
 I’m Mihai Nițu, a junior software developer and ex QA engineer. 
 
 I like to automate every task I can, but only if it really needs to be automated.
