@@ -17,6 +17,7 @@ My preferred technologies to work with are:
 I'd also like to get into:
 - MongoDB
 - N8N
+- Docker
 - any cloud technology I can
 
 ---
