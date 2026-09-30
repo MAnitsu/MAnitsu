@@ -4,8 +4,6 @@ I’m Mihai Nițu, a QA Automation Engineer.
 
 I like to automate every task I can, but only if it really needs to be automated.
 
-The main project I work on now is a [Python automation framework using Playwright](https://github.com/MAnitsu/PlaywrightFramework).
-
 ---
 
 My preferred technologies to work with are:
